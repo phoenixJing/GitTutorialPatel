@@ -1,1 +1,0 @@
-const addfx = (x,y) => x+y
